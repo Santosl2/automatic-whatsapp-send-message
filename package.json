@@ -1,0 +1,16 @@
+{
+  "name": "wpp-automatic-message-send",
+  "version": "1.0.0",
+  "description": "Send Automatic Whatsapp Messages",
+  "main": "src/index.mjs",
+  "scripts": {
+    "dev": "node src/index.mjs"
+  },
+  "keywords": [],
+  "author": "Santosl2",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "puppeteer": "^19.4.1"
+  }
+}
